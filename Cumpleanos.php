@@ -1,6 +1,6 @@
  
 <?php 
-ethrgerwefrgrge
+
 include("class.phpmailer.php");
 include("class.smtp.php"); 
 
