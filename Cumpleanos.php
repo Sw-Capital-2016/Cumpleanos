@@ -37,7 +37,7 @@ where extract(month from emp_fecha_nacimiento) = extract(month from current_time
 
 $nombre1 = $arr[1];
 $nombre2 = $arr[2]; 
-$mensaje = 'TE DESEAMOS UN FELIZ CUMPLEAÑOS';
+$mensaje = 'TE DESEAMOS UN FELIZ DIA';
 $Subject = $nombre1.' '.$nombre2 .' '.$mensaje;
                                      
                                                                 
